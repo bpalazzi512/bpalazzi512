@@ -5,7 +5,7 @@ I'm a rising second-year Honors Computer Science and Mathematics student at Nort
 
 Some More Info:
 - I’m currently working on Khoury Odyssey, a Khoury College of Computer Sciences learning platform
-- In my free time, I'm working on PicPost, a social media site for sharing pictures and videos
+- In my free time, I'm working on Pulse, a project that I finished as a part of my Tech and Human Values class!
 - I’m currently learning Next.js
 - Right now I'm reading: [Thinking, Fast and Slow by Daniel Kahneman](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 
