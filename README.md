@@ -4,9 +4,9 @@ I'm a rising second-year Honors Computer Science and Mathematics student at Nort
 
 
 Some More Info:
-- I’m currently working on Khoury Odyssey, a Khoury College of Computer Sciences learning platform
-- In my free time, I'm working on Pulse, a project that I finished as a part of my Tech and Human Values class!
-- I’m currently learning Next.js
-- Right now I'm reading: [Thinking, Fast and Slow by Daniel Kahneman](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+- I’m currently working at Wolters Kluwer as a DevOps Software Enginner co-op (until late June 2025)
+- In my free time, I'm working on [Roadar](https://github.com/abhikaboy/roadar), a crowdsourced roadside assistance platform that I started during [HackBeanpot](https://hackbeanpot.com/)!
+- I’m currently learning Go 
+- Right now I'm reading: [Inner Excellence](https://innerexcellence.com/)
 
 
