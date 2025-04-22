@@ -4,7 +4,7 @@ I'm a rising second-year Honors Computer Science and Mathematics student at Nort
 
 
 Some More Info:
-- I’m currently working at Wolters Kluwer as a DevOps Software Enginner co-op (until late June 2025)
+- I’m currently working at Wolters Kluwer as a DevOps Software Enginner co-op (until September 2025)
 - In my free time, I'm working on [Roadar](https://github.com/abhikaboy/roadar), a crowdsourced roadside assistance platform that I started during [HackBeanpot](https://hackbeanpot.com/)!
 - I’m currently learning Go 
 - Right now I'm reading: [Inner Excellence](https://innerexcellence.com/)
