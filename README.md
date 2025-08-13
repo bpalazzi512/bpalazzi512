@@ -6,7 +6,7 @@ I'm a rising third-year Honors Computer Science and Mathematics student at North
 Some More Info:
 - I’m currently working at Wolters Kluwer as a DevOps Software Enginner co-op (until September 2025)
 - In my free time, I'm working on [Roadar](https://github.com/abhikaboy/roadar), a crowdsourced roadside assistance platform that I started during [HackBeanpot](https://hackbeanpot.com/)!
-- I’m currently learning Go 
-- Right now I'm reading: [Red Queen]([https://innerexcellence.com/](https://www.goodreads.com/book/show/22328546-red-queen#CommunityReviews))
+- I’m currently learning Go/Networking 
+- Right now I'm reading: [Red Queen](https://www.goodreads.com/book/show/22328546-red-queen)
 
 
