@@ -4,9 +4,9 @@ I'm a third-year Honors Computer Science and Mathematics student at Northeastern
 
 
 Some More Info:
-- I’m currently taking classes at Northeastern's Seattle campus
-- In my free time, I'm working on DubOps, a continuation of a hackathon-winning DevOps automation project
+- I’m currently a Cloud Softwaren Engineer Co-op at [MORSE Corp](https://www.morsecorp.com/)
+- In my free time, I'm working on SkillSpark (for [Generate](https://generatenu.com/)) and Pyret (for [Sandbox](https://www.sandboxnu.com/))
 - I’m currently learning Go/Networking 
-- Right now I'm reading: [The Secret History](https://www.goodreads.com/book/show/29044.The_Secret_History)
+- Right now I'm reading: [If We Were Villains]([https://www.goodreads.com/book/show/29044.The_Secret_History](https://www.goodreads.com/book/show/30319086-if-we-were-villains))
 
 
